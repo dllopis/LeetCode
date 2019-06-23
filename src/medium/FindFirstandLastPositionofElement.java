@@ -1,7 +1,7 @@
 package medium;
 import java.util.Arrays;
 
-/* 	LEETCODE PROBLEM #34 - MEDIUM	*/
+/* 	LEETCODE PROBLEM #34	*/
 public class FindFirstandLastPositionofElement {
 
 /*	My first attempt(Naive):

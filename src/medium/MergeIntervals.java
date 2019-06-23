@@ -3,6 +3,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+/* 	LEETCODE PROBLEM #56	*/
 public class MergeIntervals {
 	
 	public static int[][] merge(int[][] intervals) {
